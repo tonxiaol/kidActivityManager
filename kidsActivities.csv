@@ -1,0 +1,30 @@
+recordId,activityName,street,city,province,postalCode,participant,startDate,endDate,weekdays,startTime,endTime,repeative,registrationFee,paymentMethods,paymentStatus,activityContactName,phoneNumber,email
+1,Amanda's birthday party,173 Lakeshore Rd W,Oakville,ON,L6K 1E7,John,7/22/2023,7/22/2023,,11:00:00 AM,1:00:00 PM,no,NA,NA,NA,Amanda,123-456-7891,amanda@gmail.com
+2,Lil sports summer camp,133 Rebecca,Oakville,ON,L6K 1J5,John,7/10/2023,7/14/2023,,8:00:00 AM,5:00:00 PM,daily,320,"etransfer, credit card",paid,,905-845-6601,service@oakville.ca
+3,OMAC Tiny Tigers training,483 Dundas St,Oakville,ON,L6M 1L9,John,6/2/2023,9/2/2023,every Wednesday,4:30:00 PM,5:30:00 PM,weekly,240,"wire transfer, credit card",paid,Kelly Smith,905-447-5332,omac@omacmartialarts.ca
+4,Idea Lab Jr. STEAM Sampler ,1393 North Service Rd E,Oakville,ON,L6H 1A7,John,7/17/2023,7/21/2023,,9:00:00 AM,5:00:00 PM,daily,450,"etransfer, credit card",paid,,905-844-3717,eastoakville@idealabkids.com
+5,Adventure Valley summer ,1080 Linbrook Rd,Oakville,ON,L6J2L1,John,7/24/2023,7/28/2023,,9:00:00 AM,6:00:00 PM,daily,520,etransfer,paid,Ashlee,905-901-4862,ashlee@adventurevalley.ca
+6,Oakville Suzuki Association summer camp ,109 Thomas St,Oakville,ON,L6J 3A7,John,7/31/2023,8/4/2013,,9:00:00 AM,12:00:00 PM,daily,350,cheque,Not paid,,,info@oakvillesuzuki.org
+7,Merria Music summer camp,2359 Bristol Cir,Oakville,ON,L6H 6P8,John,8/7/2023,8/11/2023,,8:45:00 AM,4:00:00 PM,daily,460,credit card,Not paid,,905-829-2020,school@merriammusic.com
+8,Oakville Soccer Club summer camp,1520 Pine Glen Rd,Oakville,ON,L6M 4P4,John,8/14/2023,8/18/2023,,8:00:00 AM,5:00:00 PM,daily,290,etransfer,paid,Gian Mirto,905-849-4436,gmirto@oakvillesoccer.ca
+9,Visit Andrew's farm ,9365 10 Side Rd,Milton,ON,L9T 2X9,John,7/15/2023,7/15/2023,,10:00:00 AM,2:00:00 PM,no,50,credit card,Not paid,,905-878-5807,
+10,Day trip to Wonderland,1 Canada's Wonderland Drive,Vaughan,ON,L6A 1S6,John,7/22/2023,7/22/2023,,10:00:00 AM,4:00:00 PM,no,100,credit card,Not paid,,905-832-8131,
+11,Play day with Tommy,56 Sydney Dr,Oakville,ON,A1B 2C3,John,7/29/2023,7/29/2023,,10:00:00 AM,2:00:00 PM,no,NA,NA,NA,Kate,234-567-8901,kate@gmail.com
+12,Swimming class,1130 Eighth Line,Oakville,ON,L6H 2R4,John,9/1/2023,11/30/2023,every Tuesday,10:00:00 AM,11:00:00 AM,weekly,150,credit card,paid,,289-815-3806,swimoakville@goldfishss.com 
+13,Homedepot workshop,99 Cross Ave,Oakville,ON,L6J 2W7,John,8/12/2023,8/12/2023,,10:00:00 AM,12:00:00 PM,no,NA,NA,NA,,905-815-5000,
+14,Visit Toronto Zoo,2000 Meadowvale Rd,Toronto,ON,M1B 5K7,John,8/26/2023,8/26/2023,,10:00:00 AM,3:00:00 PM,no,150,credit card,Not paid,,,
+15,Attend Kids in Triathlon,605 Santa Maria Blvd,Milton,ON,L9T 6J5,John,8/6/2023,8/6/2023,,11:00:00 AM,3:00:00 PM,no,NA,NA,NA,,,
+16,Lil sports summer camp,133 Rebecca,Oakville,ON,L6K 1J5,YouYou,7/4/2023,7/7/2023,,8:00:00 AM,5:00:00 PM,daily,320,credit card,paid,,289-400-2719,service@oakville.ca
+17,Art Explorer,2302 Bridge Rd,Oakville,ON,L6L 3L5,YouYou,7/10/2023,7/14/2023,,8:00:00 AM,5:00:00 PM,daily,351.3,credit card,paid,,905-815-2000,service@oakville.ca
+18,Build a Treasure Chest,2555 Bristol Circle,Oakville,ON,L6H 5W9,YouYou,8/12/2023,8/12/2023,,10:00:00 AM,12:00:00 PM,no,NA,NA,NA,,905-829-5900,
+19,CampOAK for Tots,385 Sixteen Mile Dr,Oakville,ON,L6M 0Z4,YouYou,7/17/2023,7/21/2023,,8:00:00 AM,5:00 PM,daily,$249.40,credit card,paid,,905-815-2000,service@oakville.ca
+20,,,,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,
+22,,,,,,,,,,,,,,,,,,
+23,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,
+27,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,
+29,,,,,,,,,,,,,,,,,,
